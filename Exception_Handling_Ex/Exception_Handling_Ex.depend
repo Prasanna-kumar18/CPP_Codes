@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729691500 source:c:\users\prasanna\desktop\cpp_programs\exception_handling_ex\main.cpp
+	<iostream>
+	<stdexcept>
+

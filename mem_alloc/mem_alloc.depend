@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1726150660 source:c:\users\prasanna\desktop\cpp_programs\mem_alloc\main.cpp
+	<iostream>
+	<limits.h>
+

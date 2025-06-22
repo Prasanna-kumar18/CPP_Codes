@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729174608 source:c:\users\prasanna\desktop\cpp_programs\queue_stl_ex\main.cpp
+	<iostream>
+	<queue>
+
